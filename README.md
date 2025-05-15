@@ -1,16 +1,30 @@
-## Hi there 👋
+# Halo, Saya [Mario]!
 
-<!--
-**Ranbalak05/Ranbalak05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang [mahasiswa] yang tertarik pada [pengembangan web, data science, programming dsb.]. Saya senang belajar hal baru dan berkontribusi dalam proyek open source.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Biodata
+- **Nama:** [Mario Ranbalak]  
+- **Tempat, Tanggal Lahir:** [Saumlaki, 05 November 2001]  
+- **Alamat:** [Mangga Dua,Ambon]  
+- **Hobi:** [Renang]
+
+---
+
+## Pendidikan
+- **[2023]** – [Universitas Kristen Indonesia Maluku]  
+  *[Program Studi Informatika]*  
+- **[Tahun - Tahun]** – [SMA Negeri 8 KKT]  
+  *[Jurusan IPA]*
+
+---
+
+## Kontak
+- **Email:** [mranbalak01@gmail.com]    
+- **GitHub:** [https://github.com/username](https://github.com/Ranbalak05)  
+- **Instagram:** [https://instagram.com/mario.ranbalak05](https://instagram.com/mario.ranbalak05) (opsional)
+
+---
+
+Terima kasih telah mengunjungi profil saya!
